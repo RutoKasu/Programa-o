@@ -6,7 +6,7 @@ void main(){
     printf("Escreva um numero: ");
     scanf("%f",&n);
 
-    printf("%E",n);
+    printf("%E",&n);
 
     
 }
